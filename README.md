@@ -29,7 +29,7 @@
 
 ---
 *Bu profil sayfası sürekli bir değişim ve öğrenme süreci
-ndedir.*
+nededir.*
 
 <!--
 **mehmetakifq/mehmetakifq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
